@@ -52,6 +52,6 @@ end
 #gem 'mysql'
 
 group :production do
-  gem 'pg'
+#  gem 'pg'
   gem 'thin'
 end
